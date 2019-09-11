@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">bookRex</string>
+    <string name="navigation_drawer_open">View Details</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="nav_header_title">Review your Book</string>
+    <string name="nav_header_subtitle">Click camera icon, and hover over the front cover</string>
+    <string name="nav_header_desc">About</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Book Name</string>
+    <string name="menu_gallery">Rating</string>
+    <string name="menu_slideshow">Price</string>
+    <string name="menu_tools">Buy here!</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="name_cam">Introduction to Algorithms</string>
+</resources>
